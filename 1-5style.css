@@ -26,10 +26,9 @@ header {
 
 .main {
   width: 800px;
+  margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 50px 0px 50px;
 }
 
 .box1 {
@@ -92,7 +91,7 @@ header {
   background-color: #bad3ff;
 }
 
-.box11{
+.box11 {
   width: 200px;
   height: 200px;
   background-color: #a4c6ff;
